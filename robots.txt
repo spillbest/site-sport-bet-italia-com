@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sport-bet-italia.com/sitemap.xml
